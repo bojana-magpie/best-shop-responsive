@@ -115,7 +115,7 @@ a {
     display: flex;
     justify-content: space-between;
 }
-h2 {
+.statistics__container .statistics__title {
     font-family: var(--font-raleway);
     font-size: 2.25rem;
     text-align: center;

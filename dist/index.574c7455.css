@@ -432,6 +432,12 @@ h2 {
   margin-top: 100px;
 }
 
+@media (width <= 792px) {
+  .statistics {
+    margin-top: 50px;
+  }
+}
+
 .statistics__title {
   text-align: center;
 }
@@ -461,6 +467,16 @@ h2 {
   display: flex;
 }
 
+@media (width <= 792px) {
+  .statistics__single {
+    margin-bottom: 35px;
+  }
+
+  .statistics__single:last-child {
+    margin-bottom: 0;
+  }
+}
+
 .statistics__single:first-child .statistics__circle {
   background-color: #fb3b64;
 }
@@ -488,16 +504,6 @@ h2 {
   left: 50%;
 }
 
-@media (width <= 792px) {
-  .statistics__single {
-    margin-bottom: 35px;
-  }
-
-  .statistics__single:last-child {
-    margin-bottom: 0;
-  }
-}
-
 .statistics__circle {
   border-radius: 50%;
   width: 63px;
@@ -519,12 +525,6 @@ h2 {
 .statistics__description {
   color: #a5a5a5;
   margin-top: 19px;
-}
-
-@media (width <= 792px) {
-  .statistics {
-    margin-top: 50px;
-  }
 }
 
 .benefits {
@@ -941,5 +941,197 @@ h2 {
 
 .pricing__item--not:before {
   background-image: url("Close.22110c7d.svg");
+}
+
+.contact {
+  justify-content: center;
+  padding: 80px 100px 100px;
+  display: flex;
+}
+
+@media (width <= 1024px) {
+  .contact {
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 15px;
+  }
+}
+
+.contact__column {
+  width: 50%;
+}
+
+@media (width <= 1024px) {
+  .contact__column {
+    width: 100%;
+  }
+}
+
+.contact__title {
+  font-size: 3.0625rem;
+  line-height: 3.6875rem;
+}
+
+.contact__instruction {
+  margin: 22px 0 42px;
+  font-size: 1rem;
+  line-height: 1.375rem;
+}
+
+@media (width <= 1024px) {
+  .contact__instruction {
+    margin: 5px 0 35px;
+  }
+}
+
+.contact__details {
+  color: #a5a5a5;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+}
+
+@media (width <= 1024px) {
+  .contact__details {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.contact__details .details__item {
+  color: #a5a5a5;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+@media (width <= 1024px) {
+  .contact__details .details__item {
+    margin-bottom: 10px;
+  }
+}
+
+.contact__details .details__item:first-of-type {
+  margin-right: 20px;
+}
+
+.contact__details .details__item img {
+  margin-right: 10px;
+}
+
+.form {
+  flex-direction: column;
+  display: flex;
+}
+
+@media (width <= 1024px) {
+  .form {
+    margin-top: 20px;
+  }
+}
+
+.form__field {
+  flex-direction: column;
+  display: flex;
+}
+
+.form__field:first-of-type {
+  margin-bottom: 42px;
+}
+
+.form__label {
+  text-transform: uppercase;
+  color: #08a6e4;
+  letter-spacing: 3px;
+  font-size: .6875rem;
+  font-weight: bold;
+  line-height: .9rem;
+}
+
+.form__input {
+  background-color: #0000;
+  border: none;
+  border-bottom: 1px solid #a5a5a5;
+  line-height: 2.625rem;
+}
+
+.form__consent {
+  margin-top: 30px;
+}
+
+.form__checkbox {
+  cursor: pointer;
+  margin-bottom: 12px;
+  padding-left: 35px;
+  font-size: 1.375rem;
+  display: block;
+  position: relative;
+}
+
+.form__checkbox input {
+  opacity: 0;
+  cursor: pointer;
+  width: 0;
+  height: 0;
+  position: absolute;
+}
+
+.form__checkbox input:checked ~ .checkbox {
+  background-image: url("Checkmark.c57fbd17.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 50%;
+}
+
+.form__checkbox .checkbox {
+  background-color: #fff;
+  border: 1px solid #a5a5a5;
+  border-radius: 4px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.form__checkbox .consent__text {
+  color: #a5a5a5;
+  margin: 0 10px;
+  font-size: .75rem;
+  line-height: 17px;
+}
+
+.form .btn {
+  align-self: flex-end;
+  margin-top: 20px;
+  padding: 20px 97px;
+  font-size: .8125rem;
+}
+
+.footer {
+  padding: 20px 0;
+  box-shadow: 0 -5px 40px #00000029;
+}
+
+.footer__container {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.footer__info {
+  flex-direction: column;
+  justify-content: space-around;
+  display: flex;
+}
+
+.footer__copy {
+  color: var(--color-grey);
+  margin-top: 6px;
+  font-size: .6875rem;
+  line-height: 1.5rem;
+}
+
+.footer__icons a:first-of-type {
+  margin-right: 25px;
 }
 /*# sourceMappingURL=index.574c7455.css.map */

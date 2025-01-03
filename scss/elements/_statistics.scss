@@ -1,6 +1,10 @@
 .statistics {
   margin-top: 100px;
 
+  @include mobile {
+    margin-top: 50px;
+  }
+
   &__title {
     text-align: center;
   }
@@ -27,10 +31,19 @@
     text-align: center;
     font-family: $font-raleway;
 
+    @include mobile {
+      margin-bottom: 35px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
     &:nth-child(1) {
       .statistics__circle {
         background-color: $color-redish;
-    }
+      }
+
       .statistics__img {
         top: 0;
         left: 45%;
@@ -41,27 +54,22 @@
       .statistics__circle {
         background-color: $color-primary;
       }
+
       .statistics__img {
         top: 14px;
         left: 47%;
       }
     }
 
+
     &:nth-child(3) {
       .statistics__circle {
         background-color: $color-green;
       }
+
       .statistics__img {
         top: 6px;
         left: 50%;
-      }
-    }
-
-    @include mobile {
-      margin-bottom: 35px;
-
-      &:last-child {
-        margin-bottom: 0;
       }
     }
   }
@@ -87,9 +95,5 @@
   &__description {
     color: $color-grey;
     margin-top: 19px;
-  }
-
-  @include mobile {
-    margin-top: 50px;
   }
 }
