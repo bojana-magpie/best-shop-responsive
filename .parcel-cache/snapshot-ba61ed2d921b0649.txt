@@ -1,4 +1,4 @@
-4372
+4378
 121C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133803780152825766 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\lib\schema\default.js133803780125021539 0
 141C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-musl.node133803780138511749 0
@@ -8,8 +8,10 @@
 83C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\json5\lib\index.d.ts133803780130549065 0
 124C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\htmlparser2\lib\WritableStream.d.ts.map133803780128242289 0
 83C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\types\README.md133803780121832679 0
-55C:\Users\HP\Documents\GitHub\best-shop-responsive\.idea133803777669564923 1
+55C:\Users\HP\Documents\GitHub\best-shop-responsive\.idea133840798703871998 1
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\postcss-value-parser\package.json133803780125120792 0
+132C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json133803780135434766 0
+56C:\Users\HP\Documents\GitHub\best-shop-responsive\app.js133840796265147988 0
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml-render\dist\index.d.ts133803780124537709 0
 56C:\Users\HP\Documents\GitHub\best-shop-responsive\assets133803078095525193 1
 145C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js133803780117820519 0
@@ -22,12 +24,7 @@
 82C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\regenerator-runtime133803780121800764 1
 73C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\color-name133803780120076000 1
 79C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\lib\esm133803780138591693 1
-53C:\Users\HP\Documents\GitHub\best-shop-responsive\css133803806477207902 1
-75C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\settings\_index.scss133803809707149713 0
-90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\events\lib\index.js133803780125329615 0
-72C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\env-paths133803780121337631 1
-125C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib133803780130739998 1
-62C:\Users\HP\Documents\GitHub\best-shop-responsive\package.json133803794195722866 0
+53C:\Users\HP\Documents\GitHub\best-shop-responsive\css133804052962613577 1
 78C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\chalk\readme.md133803780124405998 0
 98C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\http3.js133803780150296510 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\packager-html\LICENSE133803793994408130 0
@@ -38,12 +35,12 @@
 117C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133803793995173566 0
 138C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133803780119971043 0
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\cosmiconfig\dist\loaders.js.map133803780134557647 0
-54C:\Users\HP\Documents\GitHub\best-shop-responsive\dist133804028753728705 1
+54C:\Users\HP\Documents\GitHub\best-shop-responsive\dist133840798790884020 1
 88C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\counter\package.json133803780120408554 0
 97C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\node-addon-api\tools\check-napi.js133803780129126935 0
 110C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\transformer-image\src\validateConfig.js133803793995123424 0
 71C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\chokidar133803780128604261 1
-60C:\Users\HP\Documents\GitHub\best-shop-responsive\index.html133803897702479093 0
+60C:\Users\HP\Documents\GitHub\best-shop-responsive\index.html133840797676059046 0
 117C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133803780145038495 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\lib\esm\helpers.d.ts133803780136899983 0
 87C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\node-addon-api\README.md133803780131618328 0
@@ -58,15 +55,20 @@
 84C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\get-port\package.json133803780115812971 0
 62C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules133803811076688370 1
 72C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\immutable133803780128514977 1
-54C:\Users\HP\Documents\GitHub\best-shop-responsive\scss133804030836609685 1
+75C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\settings\_index.scss133803809707149713 0
+90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\events\lib\index.js133803780125329615 0
+72C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\env-paths133803780121337631 1
+125C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib133803780130739998 1
+62C:\Users\HP\Documents\GitHub\best-shop-responsive\package.json133803794195722866 0
+54C:\Users\HP\Documents\GitHub\best-shop-responsive\scss133840798782567021 1
 100C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\postcss-value-parser\lib\stringify.js133803780120724326 0
 106C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\web-bluetooth.js133803780162729328 0
 93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\regenerator-runtime\runtime.js133803780119134836 0
 71C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\error-ex133803780120029081 1
-77C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_buttons.scss133803900402136491 0
+77C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_buttons.scss133840769310272125 0
 90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\_\_ts_metadata133803780148728247 1
 88C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\escalade\sync\index.d.mts133803780126537710 0
-63C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements133804030836707887 1
+63C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements133840793487177047 1
 81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\error-ex\README.md133803780120319249 0
 81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\msgpackr\unpack.js133803780133137161 0
 78C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\.bin\semver.cmd133803780187527118 0
@@ -75,10 +77,10 @@
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\htmlparser2133803780128537976 1
 99C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\lib\modules\mergeStyles.mjs133803780141602379 0
 108C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\lmdb\node_modules\node-addon-api\package.json133803780130958078 0
-62C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\generic133803814785720208 1
+62C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\generic133840788779805612 1
 110C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domhandler\lib\index.d.ts133803780126176758 0
 83C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\json5\dist\index.mjs133803780130272676 0
-64C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\main.scss133804030836609685 0
+64C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\main.scss133840798782549819 0
 95C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@mischnic\json-sourcemap\LICENSE133803780115936819 0
 93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\_\_inherits_loose133803780147243868 1
 106C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\test\SymbolPropagation.test.js133803780144295065 0
@@ -89,9 +91,9 @@
 113C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133803780122131853 0
 98C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\dom-serializer\lib\esm\package.json133803780125009002 0
 76C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\graph133803780132014739 1
-63C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\settings133803872527723661 1
+63C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\settings133840771376516211 1
 74C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\ansi-styles133803780121391796 1
-76C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\settings\_colors.scss133803809707219695 0
+76C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\settings\_colors.scss133840771024333628 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@lmdb\lmdb-win32-x64\index.js133803780114241503 0
 81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\.package-lock.json133803811078424062 0
 86C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\reporter-tracer133803793994827277 1
@@ -115,7 +117,7 @@
 87C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\semver\functions\sort.js133803780135677122 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\workers\lib\Worker.js133803790601342049 0
 110C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133803780145952434 0
-74C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_form.scss133804030836707887 0
+74C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_form.scss133804039486596518 0
 128C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts133803780132226852 0
 91C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\lib\manipulation.js133803780127805002 0
 91C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\entities\lib\esm\encode.d.ts133803780138777728 0
@@ -126,13 +128,13 @@
 102C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\entities\lib\generated\encode-html.d.ts133803780138511749 0
 84C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\graph\LICENSE133803780115926838 0
 84C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\lib\loader.js133803780131455318 0
-76C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\settings\_mixins.scss133803872527723661 0
+76C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\settings\_mixins.scss133840771376496155 0
 84C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\picocolors\types.d.ts133803780124755395 0
 84C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\is-arrayish\README.md133803780118788732 0
 110C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\css-text-box-trim.js133803780146430199 0
 68C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\clone133803780123961712 1
 127C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json133803780145420335 0
-74C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\generic\_reset.scss133803814785708617 0
+74C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\generic\_reset.scss133840788779795771 0
 121C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities133803780129350838 1
 95C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlparser2\lib\Tokenizer.js.map133803780132412439 0
 99C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\package-manager\node_modules133803779658264020 1
@@ -147,7 +149,7 @@
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\docs\docs\050-modules.md133803780138954895 0
 110C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133803793995019340 0
 71C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils133803780136270603 1
-74C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_base.scss133803854171533369 0
+74C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_base.scss133840768989634339 0
 111C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133803780145201155 0
 105C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\posthtml-parser\dist133803780125622740 1
 85C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\tslib\modules\index.js133803780119114412 0
@@ -159,12 +161,16 @@
 89C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\optimizer-htmlnano133803793995061645 1
 114C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\font-family-system-ui.js133803780149001123 0
 81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\readme.md133803780122054393 0
+80C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_calculator.scss133840793487169470 0
+112C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\lib\modules\normalizeAttributeValues.cjs133803780131508413 0
 81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\sass\sass.node.mjs133803780141074830 0
 77C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_contact.scss133804028751617424 0
 101C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\utility-types\dist\mapped-types.js.map133803780127331681 0
-94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\EE.js133803780148015743 0
-112C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\src\_initializer_define_property.mjs133803780150266443 0
-73C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\fill-range133803780120065829 1
+78C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\semver\internal133803780134997253 1
+100C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\utility-types\dist\utility-types.d.ts133803780131209619 0
+81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\chrome-trace-event133803780123951729 1
+97C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib133803780132587022 1
+76C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_footer.scss133840769630408706 0
 103C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\readme.md133803780130638658 0
 99C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\msgpackr\dist\unpack-no-eval.cjs.map133803780136991882 0
 110C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\test\fixtures\context\package.json133803780145356007 0
@@ -174,7 +180,7 @@
 97C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\type-fest\source\set-required.d.ts133803780134569025 0
 82C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\ordered-binary\dist133803780117289375 1
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\utils\src\throttle.js133803780140647667 0
-77C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_opening.scss133803857306889333 0
+77C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_opening.scss133840770144658176 0
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\MH.js133803780153293855 0
 134C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133803780120672963 0
 111C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\css-grid-animation.js133803780144847631 0
@@ -183,7 +189,7 @@
 112C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\transformer-babel\src\BabelTransformer.js133803793995123424 0
 90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\optimizer-image\lib133803793994521246 1
 95C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\node-gyp-build-optional-packages133803780124557675 1
-80C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_statistics.scss133803867339099069 0
+80C:\Users\HP\Documents\GitHub\best-shop-responsive\scss\elements\_statistics.scss133840770475783055 0
 113C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\lib\modules\removeRedundantAttributes.mjs133803780142181605 0
 108C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\posthtml-parser\license133803780115991502 0
 70C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel133803811076710906 1
@@ -195,7 +201,6 @@
 67C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\.bin133803793996521055 1
 103C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\entities\readme.md133803780131508413 0
 93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\src\_inherits.mjs133803780150238228 0
-71C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\escalade133803780126928639 1
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\ET.js133803780148455196 0
 82C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\dotenv\README-es.md133803780126166792 0
 83C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\resolve-from\license133803780118803719 0
@@ -204,7 +209,7 @@
 83C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\lmdb\dependencies\v8133803780143345957 1
 106C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\link-icon-svg.js133803780152232793 0
 103C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\lib\modules\removeUnusedCss.cjs133803780133083397 0
-87C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\best-shop-responsive.3464ddca.js133803882680516062 0
+87C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\best-shop-responsive.3464ddca.js133840798787308798 0
 89C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\lib\type\binary.js133803780118188192 0
 69C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@babel133803779655955107 1
 80C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@msgpackr-extract133803811076710906 1
@@ -266,9 +271,6 @@
 91C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\esm\_type_of.js133803780145068426 0
 113C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\reporter-dev-server\src\templates\500.html133803793994918392 0
 68C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\chalk133803780125059390 1
-78C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\semver\internal133803780134997253 1
-100C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\utility-types\dist\utility-types.d.ts133803780131209619 0
-81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\chrome-trace-event133803780123951729 1
 87C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\supports-color\readme.md133803780121832679 0
 127C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133803790601007007 0
 106C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\_\_possible_constructor_return133803780148058925 1
@@ -303,6 +305,10 @@
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\MV.js133803780154069659 0
 81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\argparse\README.md133803780126567651 0
 69C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\dotenv133803780127169143 1
+71C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\escalade133803780126928639 1
+94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\EE.js133803780148015743 0
+112C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\src\_initializer_define_property.mjs133803780150266443 0
+73C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\fill-range133803780120065829 1
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\CZ.js133803780147162639 0
 100C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\pointer.js133803780156155353 0
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\utils\src\objectHash.js133803780137275696 0
@@ -548,17 +554,6 @@
 77C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\weak-lru-cache133803780126580170 1
 90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\weak-lru-cache\package.json133803780125174531 0
 89C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\feature-flags\test133803780117341815 1
-116C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133803793995802622 0
-90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\dom-serializer\lib\index.js133803780124151832 0
-137C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts133803780130491028 0
-94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\utils\src\countLines.js133803780129156915 0
-104C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133803780150515031 0
-93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\lib\querying.d.ts.map133803780135209228 0
-90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\lib\esm\feeds.d.ts133803780136494225 0
-92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features.js133803780148585318 0
-109C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\legacy.d.ts133803780131756150 0
-111C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133803793995578496 0
-85C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\_\_update133803780148896594 1
 100C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\transformer-json\package.json133803793994877597 0
 83C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\msgpackr-extract\bin133803780120777328 1
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\UG.js133803780160929128 0
@@ -672,9 +667,6 @@
 98C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\lib\modules\minifyJson.cjs133803780130729576 0
 93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\update-browserslist-db\LICENSE133803780115856863 0
 110C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\posthtml-parser\readme.md133803780124269369 0
-81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\readme.md133803780136317184 0
-98C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\transformer-babel\README.md133803793995493292 0
-87C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\dist\js-yaml.mjs133803780135017219 0
 98C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\type-fest\source\readonly-deep.d.ts133803780134023802 0
 98C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\update-browserslist-db\package.json133803780124224694 0
 109C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\font-size-adjust.js133803780149081110 0
@@ -1014,7 +1006,7 @@
 119C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133803780138214129 0
 88C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\source-map-js\lib\util.js133803780128604261 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\react-error-overlay\README.md133803780126567651 0
-63C:\Users\HP\Documents\GitHub\best-shop-responsive\css\style.css133803255300045765 0
+63C:\Users\HP\Documents\GitHub\best-shop-responsive\css\style.css133804052962603661 0
 84C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\semver\internal\re.js133803780135017219 0
 79C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\semver\functions133803780135935153 1
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\sass\types\value\boolean.d.ts133803780141372568 0
@@ -1073,8 +1065,8 @@
 90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\semver\internal\lrucache.js133803780131476617 0
 103C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\_\_class_private_method_set133803780146588076 1
 95C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\semver\internal\parse-options.js133803780134234756 0
-106C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\index.js133803780121158401 0
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\semver\functions\compare-build.js133803780125162744 0
+106C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\index.js133803780121158401 0
 95C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\packager-js\lib\utils.js133803793995436467 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\utils\src\Deferred.js133803780130573309 0
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\CN.js133803780142641292 0
@@ -1153,8 +1145,8 @@
 116C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\cjs\_object_without_properties_loose.cjs133803780139103736 0
 79C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\license133803780115731700 0
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\dom-serializer\lib\index.d.ts.map133803780127794026 0
-90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\dist\js-yaml.min.js133803780130684295 0
 75C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\dist133803780134774440 1
+90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\dist\js-yaml.min.js133803780130684295 0
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\BF.js133803780138591693 0
 80C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\sass\types\logger133803780142694048 1
 87C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\cache\index.d.ts133803780129350838 0
@@ -1356,7 +1348,7 @@
 100C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\_\_identity\package.json133803780147223838 0
 87C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\entities\lib\escape.d.ts133803780138893443 0
 129C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\LICENSE133803780115970953 0
-75C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Trumpet.041da3b3.png133803882678075390 0
+75C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Trumpet.041da3b3.png133840798787308798 0
 119C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.d.ts133803780131767928 0
 91C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\entities\lib\escape.d.ts.map133803780135935153 0
 123C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.d.ts.map133803780129360839 0
@@ -1382,7 +1374,6 @@
 129C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts133803780132004757 0
 88C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\docs\sidebars.js133803780134589058 0
 127C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.js133803780121881378 0
-97C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib133803780132587022 1
 95C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\cosmiconfig\dist\getDirectory.js133803780125733694 0
 108C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\feeds.d.ts133803780130914661 0
 106C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\feeds.js133803780117820519 0
@@ -1402,6 +1393,17 @@
 84C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\json5\lib\register.js133803780125622740 0
 81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\picocolors\LICENSE133803780115674385 0
 112C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\index.d.ts.map133803780128537976 0
+116C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133803793995802622 0
+90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\dom-serializer\lib\index.js133803780124151832 0
+137C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts133803780130491028 0
+94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\utils\src\countLines.js133803780129156915 0
+104C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133803780150515031 0
+93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\lib\querying.d.ts.map133803780135209228 0
+90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\lib\esm\feeds.d.ts133803780136494225 0
+92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features.js133803780148585318 0
+109C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\legacy.d.ts133803780131756150 0
+111C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133803793995578496 0
+85C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\_\_update133803780148896594 1
 81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\parse-json\license133803780115697437 0
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\lib\esm\feeds.d.ts.map133803780131001905 0
 113C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\legacy.d.ts.map133803780128956393 0
@@ -1415,7 +1417,7 @@
 107C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\legacy.js133803780122398565 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\lmdb\dependencies\lz4\lib\dll133803780142266581 1
 119C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\manipulation.d.ts.map133803780129295536 0
-69C:\Users\HP\Documents\GitHub\best-shop-responsive\.idea\workspace.xml133803777669554911 0
+69C:\Users\HP\Documents\GitHub\best-shop-responsive\.idea\workspace.xml133840798703861990 0
 94C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\regions\LB.js133803780152123348 0
 90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\utils\src\stream.js133803780140260391 0
 113C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\manipulation.js133803780124433859 0
@@ -1423,9 +1425,9 @@
 95C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\ordered-binary\.idea\modules.xml133803780129350838 0
 93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\lightningcss\node\targets.d.ts133803780131096335 0
 139C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133803780127341685 0
+107C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\css-snappoints.js133803780146300742 0
 85C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\README.md133803780163656090 0
 99C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domhandler\lib133803780126611764 1
-107C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\css-snappoints.js133803780146300742 0
 115C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\posthtml\node_modules\domutils\lib\querying.d.ts.map133803780129613397 0
 112C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js133803793995326650 0
 97C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\test\fixtures\plugins133803780142032449 1
@@ -1580,7 +1582,6 @@
 135C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133803780121289500 0
 99C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\docs\docs\060-contribute.md133803780139410946 0
 84C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\ordered-binary\assets133803780128374117 1
-99C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\UncommittedAsset.js133803780144824680 0
 88C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\ordered-binary\index.d.ts133803780129041815 0
 85C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\ordered-binary\LICENSE133803780115836841 0
 107C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\_\_define_property\package.json133803780147019497 0
@@ -1965,6 +1966,9 @@
 90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\watcher\binding.gyp133803780131618328 0
 87C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\lib\type\omap.js133803780132402432 0
 89C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\lib\schema\core.js133803780124173673 0
+81C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domutils\readme.md133803780136317184 0
+98C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\transformer-babel\README.md133803793995493292 0
+87C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\dist\js-yaml.mjs133803780135017219 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\domhandler\lib\index.d.ts.map133803780127136182 0
 93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\cosmiconfig\dist\defaults.d.ts133803780135865142 0
 85C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\js-yaml\bin\js-yaml.js133803780129064491 0
@@ -2148,7 +2152,6 @@
 119C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133803780138396567 0
 97C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\lib\modules\minifySvg.mjs133803780141846451 0
 98C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\lib\modules\minifyUrls.mjs133803780141887583 0
-112C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\lib\modules\normalizeAttributeValues.cjs133803780131508413 0
 90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\cosmiconfig\dist\loaders.js133803780127432825 0
 99C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\source-map\dist\node.js.flow133803780116495709 0
 109C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\htmlnano\lib\modules\removeAttributeQuotes.cjs133803780131778847 0
@@ -2775,7 +2778,7 @@
 104C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\audiotracks.js133803780135677122 0
 101C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\auxclick.js133803780135905173 0
 123C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\_\_object_without_properties_loose\package.json133803780147981860 0
-76C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Facebook.389b15e8.svg133803882681300132 0
+76C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Facebook.389b15e8.svg133840798790723960 0
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\av1.js133803780135991096 0
 113C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\background-clip-text.js133803780137001915 0
 112C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\es6-string-includes.js133803780148403484 0
@@ -2978,7 +2981,7 @@
 108C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\iframe-seamless.js133803780150414795 0
 106C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\iframe-srcdoc.js133803780150435270 0
 105C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\imagecapture.js133803780150515031 0
-77C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Mail Icon.b0bc1804.svg133803882681280140 0
+77C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Mail Icon.b0bc1804.svg133840798786455265 0
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\ime.js133803780150540054 0
 104C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\import-maps.js133803780150576749 0
 100C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\imports.js133803780150607478 0
@@ -3156,8 +3159,8 @@
 104C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\svg-filters.js133803780159019150 0
 106C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\transformer-svg\src\dependencies.js133803793994705160 0
 104C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\utils\test\input\config\config.js133803780128374117 0
-105C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\svg-fragment.js133803780159060226 0
 88C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\utils.js133803780144882265 0
+105C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\svg-fragment.js133803780159060226 0
 104C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\esm\_class_name_tdz_error.js133803780143250662 0
 67C:\Users\HP\Documents\GitHub\best-shop-responsive\css\style.css.map133803243942875370 0
 101C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\svg-html.js133803780159081879 0
@@ -3166,7 +3169,7 @@
 102C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\svg-html5.js133803780159101875 0
 100C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\svg-img.js133803780159113042 0
 92C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\markdown-ansi\LICENSE133803780115866845 0
-74C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\iPhone.18df9ac3.png133803882678175466 0
+74C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\iPhone.18df9ac3.png133840798788565942 0
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\lib\public\Bundle.js133803780135119093 0
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\caniuse-lite\data\features\sxg.js133803780159252616 0
 115C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js133803780138777728 0
@@ -3645,7 +3648,7 @@
 95C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\cjs\_call_super.cjs133803780128770028 0
 93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\node-resolver-core\lib133803780123916973 1
 119C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\cjs\_class_apply_descriptor_destructure.cjs133803780129474610 0
-78C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Phone Icon.b10af3a5.svg133803882681520155 0
+78C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Phone Icon.b10af3a5.svg133840798788230193 0
 114C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\cjs\_class_apply_descriptor_update.cjs133803780130478585 0
 101C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\cjs\_class_call_check.cjs133803780130772645 0
 128C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@swc\helpers\cjs\_class_check_private_static_field_descriptor.cjs133803780131285905 0
@@ -3981,7 +3984,7 @@
 97C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\feature-flags\package.json133803780125339964 0
 105C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\runtime-react-refresh\package.json133803793994877597 0
 93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\graph\test\integration133803780117810500 1
-65C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\index.html133803897705460556 0
+65C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\index.html133840798786530470 0
 96C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\runtime-react-refresh\src133803793994685177 1
 119C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js133803793994735183 0
 107C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133803793995102613 0
@@ -4076,7 +4079,6 @@
 108C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\package-manager\test\fixtures\has-foo133803780135075454 1
 109C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\package-manager\test\fixtures\packages133803780130448527 1
 119C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133803780135403925 1
-132C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json133803780135434766 0
 124C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\package-manager\test\fixtures\packages\peers\index.js133803780130684295 0
 128C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\package-manager\test\fixtures\packages\peers\package.json133803780135517040 0
 104C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\optimizer-swc\lib\SwcOptimizer.js133803793994581253 0
@@ -4210,6 +4212,7 @@
 99C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\summarizeRequest.js133803780144181134 0
 100C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\SymbolPropagation.js133803780144255007 0
 88C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\types.js133803780144768059 0
+99C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\UncommittedAsset.js133803780144824680 0
 93C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\Validation.js133803780144965781 0
 89C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\worker.js133803780145079578 0
 109C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\@parcel\core\src\requests\AssetGraphRequest.js133803780134297970 0
@@ -4347,17 +4350,20 @@
 76C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\.bin\sass.ps1133803780187527118 0
 74C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\.bin\semver133803780187527118 0
 90C:\Users\HP\Documents\GitHub\best-shop-responsive\node_modules\.bin\update-browserslist-db133803780187537185 0
-78C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Background.96fc9b9b.png133803882678155407 0
-91C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\best-shop-responsive.3464ddca.js.map133803882680556113 0
-77C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\index.574c7455.css.map133804028753718747 0
-75C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Catalog.8507218e.svg133803882681640147 0
-79C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Checkmark-1.22a0eaf4.svg133803918833197021 0
-73C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Close.22110c7d.svg133803919547168363 0
-71C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Eye.e60e75e7.svg133803882681520155 0
-73C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\index.574c7455.css133804028753688733 0
-75C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Macbook.a1f4b436.png133803882678025393 0
-74C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Person.e8721018.svg133803882681010143 0
-75C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Twitter.41e2b00a.svg133803882681730227 0
+78C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Background.96fc9b9b.png133840798788565942 0
+91C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\best-shop-responsive.3464ddca.js.map133840798790604768 0
+77C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\index.574c7455.css.map133840798790604768 0
+75C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Catalog.8507218e.svg133840798786285125 0
+79C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Checkmark-1.22a0eaf4.svg133840798790585059 0
+77C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Checkmark.c57fbd17.svg133840798788380365 0
+73C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Close.22110c7d.svg133840798788380365 0
+71C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Eye.e60e75e7.svg133840798787338958 0
+73C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\index.574c7455.css133840798788565942 0
+72C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\index.7c0ccee6.js133840798786520536 0
+76C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\index.7c0ccee6.js.map133840798788855946 0
+75C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Macbook.a1f4b436.png133840798788070182 0
+74C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Person.e8721018.svg133840798786065142 0
+75C:\Users\HP\Documents\GitHub\best-shop-responsive\dist\Twitter.41e2b00a.svg133840798788855946 0
 71C:\Users\HP\Documents\GitHub\best-shop-responsive\assets\Background.png133762136788858470 0
 68C:\Users\HP\Documents\GitHub\best-shop-responsive\assets\Catalog.svg133762136789343685 0
 72C:\Users\HP\Documents\GitHub\best-shop-responsive\assets\Checkmark-1.svg133762136790243915 0
